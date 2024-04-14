@@ -1,0 +1,45 @@
+.top{
+    background-color: #FAD437;
+    padding: 40px 10px 40px 10px;
+}
+
+.nav{
+    background-color: white;
+    border-radius: 20px;
+    width: 1000px;
+    height: 120px;
+    box-shadow: 2px 2px 5px black;
+
+}
+
+.nav-left{
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    font-size: 30px;
+    gap: 40px;
+}
+
+.nav-left-ord{
+    padding: 20px 0px 0px 0px;
+}
+
+.nav-left-main{
+    background-color: black;
+    color: white;
+    padding: 16px 14px 16px 14px;
+    border-radius: 20px;   
+}
+
+.fa-solid{
+    padding: 0px 0px 30px 900px;
+    margin: -60px 0px 0px 0px;
+
+}
+
+.bottom{
+    background-color: yellow;
+}
+
+#button{
+
+}
